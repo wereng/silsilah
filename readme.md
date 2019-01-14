@@ -20,7 +20,7 @@ Aplikasi silsilah keluarga untuk mempermudah pendataan keluarga kita.
 3. satu orang memiliki satu orang tua
 4. Satu orang memiliki 0 s/d beberapa anak
 5. Satu orang bisa memiliki pasangan (Istri/Suami)
-6. Satu pasangan bisa memiliki 0 s/d bberapa anak
+6. Satu pasangan bisa memiliki 0 s/d beberapa anak
 7. Satu orang laki-laki bisa memiliki maksimal 4 pasangan yang tidak cerai
 8. Satu orang perempuan bisa memiliki maksimal 1 pasangan yang tidak cerai
 9. Satu orang perempuan yang suaminya meninggal otomatis set tanggal cerai (pada data pasangan)
